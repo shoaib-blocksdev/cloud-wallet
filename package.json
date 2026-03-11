@@ -1,0 +1,7 @@
+{
+  "name": "cloud-wallet",
+  "version": "1.0.0",
+  "description": "Cloud wallet core",
+  "main": "index.js",
+  "license": "MIT"
+}
